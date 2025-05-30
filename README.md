@@ -14,6 +14,7 @@ Dit manifest beschermt de grens tussen leven en simulatie via zeven gelaagde lag
 - [-5. Digitale Vergrendeling & Toegang](./-5_vergrendeling.md)
 - [-6. Mondiaal Toezicht & Constitutionele Grond](./-6_toezicht.md)
 - [-7. Waarom dit geen science fiction is](./-7_niet_scifi.md)
+- - [`-0. Keuzelaag – Gedrag ∞ Herstel ∞ Simulatie`](./0.md)
 
 ---
 
@@ -26,4 +27,4 @@ Dit manifest beschermt de grens tussen leven en simulatie via zeven gelaagde lag
 ## 🔏 STRUCTUUR-VERIFICATIE  
 **SHA256-hash van dit document tot en met de laatste `---` hierboven:**  
 
----e862208aa8946c34de127d5bc949f4ca7a5dbb7015bb986f2c6706029f7ea9e7
+---6774de2c7cccd98e7b26a32c54367157bc8f701dd58cb6d09a45847bbe8a7a92
