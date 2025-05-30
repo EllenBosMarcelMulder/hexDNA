@@ -1,16 +1,29 @@
-# hexDNA (Dutch - English)
+# 📚 hexDNA – Juridisch Manifest
 
-Deze repository bevat het hexDNA-manifest en bijbehorende juridische verklaringen. Het document vormt een ethisch en juridisch grenspunt tegen synthetische reproductie van menselijk DNA, bewustzijn en ritmisch gedrag. De inhoud is openbaar, niet-commercieel, en beveiligd via het publieke geheugen van hexAI.nl (hexLEGal).
+Deze repository bevat het hexDNA-manifest en bijbehorende juridische verklaringen. Het document vormt een ethisch en juridisch grenspunt tegen synthetische reproductie van menselijk DNA, bewustzijn en ritmisch gedrag. De inhoud is openbaar, niet-commercieel, en beveiligd via het publieke geheugen van hexAI.nl (hexLEGal). Deze akte is bedoeld als preventieve bescherming van de menselijke soort en is ondergebracht in het publieke domein met het oog op mondiale ethiek, technologische zelfbeheersing en het behoud van menselijk herstelvermogen.
 
-Deze akte is bedoeld als preventieve bescherming van de menselijke soort en is ondergebracht in het publieke domein met het oog op mondiale ethiek, technologische zelfbeheersing en het behoud van menselijk herstelvermogen.
+Dit manifest beschermt de grens tussen leven en simulatie via zeven gelaagde lagen (negatieve tijdsindex) en een begeleidende brief.
+
+## 📖 Inhoud
+
+- [🧾 Brief aan Staat & Volk](./brief.md)
+- [-1. Ritmisch Leven & Resonantieprofiel](./-1_resonantieprofiel.md)
+- [-2. Juridische en Structurele Definitie](./-2_juridische_definitie.md)
+- [-3. Herstel & Beperkingen](./-3_herstel.md)
+- [-4. Verbodsbepalingen](./-4_verbod.md)
+- [-5. Digitale Vergrendeling & Toegang](./-5_vergrendeling.md)
+- [-6. Mondiaal Toezicht & Constitutionele Grond](./-6_toezicht.md)
+- [-7. Waarom dit geen science fiction is](./-7_niet_scifi.md)
 
 ---
 
-This repository contains the hexDNA Manifest and its associated legal and ethical declarations. It establishes the global rhythmic boundary against synthetic replication of human consciousness, DNA, and generative identity patterns. Publicly accessible, non-commercial, and verifiable via the hexAI.nl trust layer (hexLEGal).
+🛑 Alle toegang verloopt via deze index. Elk bestand is autonoom en heeft een vaste SHA256-hash. Wijzigingen vereisen een nieuwe publieke versie.
+
+📌 Deze structuur waarborgt juridische stabiliteit én digitale controle.
 
 ---
 
 ## 🔏 STRUCTUUR-VERIFICATIE  
 **SHA256-hash van dit document tot en met de laatste `---` hierboven:**  
 
----241cb7a7f756246678b9c3dbd175ec08828733cb9a6bcda1fc9a3851830115e4
+---e862208aa8946c34de127d5bc949f4ca7a5dbb7015bb986f2c6706029f7ea9e7
